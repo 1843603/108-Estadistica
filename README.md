@@ -10,3 +10,4 @@ Lista de actividades del curso
   + Actualizamos nuestro repositorio vía versión control (*Git*)
   
 + :paperclip: Clase 2: 23.01.2020
++ :paperclip: Primera tarea del curso
