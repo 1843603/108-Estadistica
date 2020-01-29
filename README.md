@@ -13,3 +13,7 @@ Lista de actividades del curso
 + :paperclip: Primera tarea del curso
 
 + La fecha de entrega será el día 28.01 a las 23 horas
+
+
++ Clase 3: 29.01.2020
+  + Instalar paquetería para R
