@@ -5,3 +5,9 @@
 
 En cada prueba se establece un valor de alfa de 0.05.
 La interpretación se puede observar en la siguiente imagen:
+
+
+
+!(Interpretación)[123]
+
+[123]: Imagen1.png
