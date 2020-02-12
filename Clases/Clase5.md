@@ -8,6 +8,6 @@ La interpretación se puede observar en la siguiente imagen:
 
 
 
-!(Interpretación)[123]
+![Interpretación][123]
 
 [123]: Imagen1.png
