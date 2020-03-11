@@ -66,6 +66,14 @@ Lista de actividades del curso
 :paperclip: Clase 12: 27.02.2020 *Prueba de T*
 
 
+:paperclip: Clase 13: 11.03.2020 *Prueba de T*
+  + BD vivero, prueba de T de dos muestras independientes
+
+
+
+
+
+
   
   
 
