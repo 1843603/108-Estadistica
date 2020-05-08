@@ -71,13 +71,43 @@ Lista de actividades del curso
 
 
 
+:paperclip: Clase 14: 11.03.2020 *Prueba de T*
+
+
+:paperclip: Clase 15: 12.03.2020 *Ejercicios de Pruebas de T*
 
 
 
-  
-  
+RECESO POR CONTINGENCIA DE SALUD: 16.03.2020 a 20.04.2020
+
+
+:paperclip: Clase aula virtual 16: 22.04.2020 *Pruebas de T en Excel*
+  + Link a vídeo clase: https://web.microsoftstream.com/video/64308257-a406-4929-acd9-fe4e714f5dba
 
   
+
+:paperclip: Clase aula virtual 17: 23.04.2020 *Pruebas de T en Excel*
+  + Link a vídeo clase: https://web.microsoftstream.com/video/e6bd06bf-c600-4756-bb93-acec915039d5
   
+  
+:paperclip: Clase aula virtual 18: 29.04.2020 *Pruebas de T en Excel*
+  + Link a vídeo clase: https://web.microsoftstream.com/video/a0678a4a-dda4-4540-88b1-c152761893c4
+  
+ 
+:paperclip: Clase aula virtual 19: 30.04.2020 *Pruebas de T en Excel*
+  + Link a vídeo clase: https://web.microsoftstream.com/video/c387cbd0-f262-48fa-9e6d-c583fd50673f
+  + Utilización de pruebas lógicas y condicionales. 
+  
+  
+:paperclip: ASUETO 05.05.2020
+
+
+:paperclip: Clase aula virtual 20: 06.05.2020 *Correlación en Excel*
+  + Link a vídeo clase: https://web.microsoftstream.com/video/26ab8e10-3561-4e56-993d-5bb064df5489
+  
+  
+  
+:paperclip: Clase aula virtual 21: 07.05.2020 
+  + Link a vídeo clase: https://web.microsoftstream.com/video/a0678a4a-dda4-4540-88b1-c152761893c4
   
   
