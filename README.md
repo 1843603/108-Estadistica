@@ -1,4 +1,9 @@
 # 108-Estadistica
+
+Nombre: Joselyne Ailed Carranza Treviño
+
+Matrícula:1843603
+
 Curso estadística Enero Junio 2020
 
 Lista de actividades del curso
