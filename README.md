@@ -111,3 +111,35 @@ RECESO POR CONTINGENCIA DE SALUD: 16.03.2020 a 20.04.2020
   + Link a vídeo clase: https://web.microsoftstream.com/video/a0678a4a-dda4-4540-88b1-c152761893c4
   
   
+  
+:paperclip: Clase aula virtual 22: 13.05.2020
+  + Link a vídeo clase: https://web.microsoftstream.com/video/53bd20fe-1dc0-4a7c-a004-723f61dac7bd
+  
+  
+:paperclip: Clase aula virtual 23: 14.05.2020
+  + Link a vídeo clase: https://web.microsoftstream.com/video/ea472377-c2b4-4faa-9f62-eb6a4230da6d
+  
+  
+  
+:paperclip: Clase aula virtual 24: 20.05.2020
+  + Link a vídeo clase: https://web.microsoftstream.com/video/140bfce7-86e4-41da-bb74-7e1c49db4b37
+  
+  
+  
+:paperclip: Clase aula virtual 25: 21.05.2020
+  + Link a vídeo clase: https://web.microsoftstream.com/video/0cb4dfdd-110c-404b-9060-739a127423a8
+  
+  
+  
+:paperclip: Clase aula virtual 26: 27.05.2020
+  + Link a vídeo clase: https://web.microsoftstream.com/video/f28eab9e-ec98-42dc-9137-59329ac529af
+  
+  
+  
+:paperclip: Clase aula virtual 27: 28.05.2020
+  + Link a vídeo clase: https://web.microsoftstream.com/video/161f570b-277e-4b2d-86da-c61136b12f27
+  
+
+FIN DEL CURSO ENERO - JUNIO: 29.05.2020
+  
+  
